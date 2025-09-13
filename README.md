@@ -8,7 +8,7 @@
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/anmimos/anmimos/refs/heads/github-breakout/images/breakout-light.svg">
 </picture>
 
-[![anmimos's github stats](https://github-readme-stats-anmimos.vercel.app/api?username=anmimos)](https://github.com/anmimos)
+[![anmimos's github stats](https://github-readme-stats-anmimos.vercel.app/api?username=anmimos&show_icons=true&theme=dark)](https://github.com/anmimos)
 
 ### languages and tools:
 
