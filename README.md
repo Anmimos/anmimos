@@ -8,7 +8,12 @@
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/anmimos/anmimos/refs/heads/github-breakout/images/breakout-light.svg">
 </picture>
 
-[![anmimos's github stats](https://github-readme-stats-anmimos.vercel.app/api?username=anmimos&show_icons=true&theme=dark)](https://github.com/anmimos)
+<a href="https://github.com/anmimos">
+  <img height=200 align="center" src="https://github-readme-stats-anmimos.vercel.app/api?username=anmimos&show_icons=true&theme=transparent&hide=issues&show=prs_merged" />
+</a>
+<a href="https://github.com/anmimos">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmimos&layout=compact" />
+</a>
 
 ### languages and tools:
 
