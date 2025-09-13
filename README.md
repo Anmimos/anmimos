@@ -9,7 +9,7 @@
 </picture>
 
 <a href="https://github.com/anmimos">
-  <img height=200 align="center" src="https://github-readme-stats-anmimos.vercel.app/api?username=anmimos&show_icons=true&theme=transparent&hide=issues&show=prs_merged,reviews&custom_title=stats:&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-anmimos.vercel.app/api?username=anmimos&show_icons=true&theme=transparent&hide=issues&show=prs_merged,discussions_answered&custom_title=stats:&rank_icon=github" />
 </a>
 <a href="https://github.com/anmimos">
   <img height=200 align="center" src="https://github-readme-stats-anmimos.vercel.app/api/top-langs?username=anmimos&theme=transparent&layout=compact&langs_count=12&exclude_repo=lx_admin&custom_title=langs:" />
