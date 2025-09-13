@@ -8,7 +8,9 @@
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/anmimos/anmimos/refs/heads/github-breakout/images/breakout-light.svg">
 </picture>
 
-### Languages and Tools:
+[![anmimos's github stats](https://github-readme-stats-anmimos.vercel.app/api?username=anmimos)](https://github.com/anmimos)
+
+### languages and tools:
 
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/)
 [<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>](https://cassandra.apache.org/)
