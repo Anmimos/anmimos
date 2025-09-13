@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=здарова">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmimos/anmimos/refs/heads/github-breakout/images/breakout-dark.svg">
