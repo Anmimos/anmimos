@@ -12,7 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats-anmimos.vercel.app/api?username=anmimos&show_icons=true&theme=transparent&hide=issues&show=prs_merged" />
 </a>
 <a href="https://github.com/anmimos">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmimos&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats-anmimos.vercel.app/api/top-langs?username=anmimos&layout=compact&theme=transparent" />
 </a>
 
 ### languages and tools:
